@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=devish99)](https://github.com/devish99)
+[![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=devish99&show_icons=true&theme=radical)](https://github.com/devish99)
 
 <!--
 **devish99/devish99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
