@@ -1,8 +1,8 @@
-# Hello, there🔥!
+# Hello, there! 🔥
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devish99&layout=compact&theme=dark)](https://github.com/devish99/github-readme-stats)
 
-### I’m currently learning Web Development and working on React JS 😃
+### I’m currently learning Web Development and working on React JS & React Native 😃
 
 <!--
 **devish99/devish99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
