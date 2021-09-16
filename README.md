@@ -1,6 +1,6 @@
 # Hello, there! 🔥
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devish99&layout=compact&theme=dark)](https://github.com/devish99/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devish99&layout=compact&theme=dark&hide=issues,prs,stars,contribs&count_private=true&show_icons=true)](https://github.com/devish99/github-readme-stats)
 
 ### I’m currently learning Web Development and working on React JS & React Native 😃
 
