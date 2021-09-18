@@ -2,7 +2,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devish99&layout=compact&include_all_commits=true&theme=dark&count_private=true&show_icons=true)](https://github.com/devish99/github-readme-stats)
 
-[![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=devish99&include_all_commits=true&show_icons=true&theme=dark&hide=issues,prs,stars,contribs&count_private=true&show_icons=true)](https://github.com/devish99/github-readme-stats)
+[![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=devish99&include_all_commits=true&show_icons=true&theme=dark&count_private=true&show_icons=true)](https://github.com/devish99/github-readme-stats)
 
 ### I’m currently learning Web Development and working on React JS & React Native 😃
 
