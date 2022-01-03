@@ -1,6 +1,6 @@
 # Hello, there! 🔥
 
-[![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=devish99&include_all_commits=true&show_icons=true&count_private=true&show_icons=true)](https://github.com/devish99/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devish99&layout=compact)](https://github.com/devish99/github-readme-stats) 
+[![Sri Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=devish99&include_all_commits=true&show_icons=true&count_private=true&show_icons=true)](https://github.com/devish99/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devish99&layout=compact)](https://github.com/devish99/github-readme-stats) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devish99&theme=nord_bright)
 
 ### I’m currently pursuing AWS - Developer Associate Certification 🌐
