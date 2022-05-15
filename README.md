@@ -5,7 +5,7 @@
 ### I’m currently pursuing the AWS - Developer Associate Certification 🌐
 ![image](https://user-images.githubusercontent.com/54411695/166470977-cbfd2540-e769-49a4-8c48-ee06f9b418a2.png)
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sri-vishnu-pasumarthi-78321a147" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sri-vishnu-pasumarthi-78321a147?trk=profile-badge">Sri Vishnu Pasumarthi</a></div>
+
               
 <!--
 **devish99/devish99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
