@@ -3,7 +3,7 @@
 [![Sri Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=devish99&include_all_commits=true&show_icons=true&count_private=true&show_icons=true)](https://github.com/devish99/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devish99&layout=compact)](https://github.com/devish99/github-readme-stats) 
 
 ### AWS Certified Developer - Associate 🌐
-![aws-certified-developer-associate](https://user-images.githubusercontent.com/54411695/200574132-3196f0ae-fbc5-49f3-b9b7-e9dd759b4490.png)
+![aws-certified-developer-associate](https://user-images.githubusercontent.com/54411695/200574348-40ae0dce-aa68-4e19-bcba-f1a8fd144a26.png)
 
 
               
