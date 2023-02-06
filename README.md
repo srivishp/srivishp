@@ -1,6 +1,6 @@
 # Hello, there! 🤓
 
-AWS Certified Developer - Associate | Java | React JS | Python
+#### AWS Certified Developer - Associate | Java | React JS | Python
 - 📫 <a href="https://drive.google.com/file/d/1y4mcLWQrgZ7W1SmvwTJoRU89aBHg9gRk/view">Click here</a> to view my resume.
 
 
@@ -9,7 +9,7 @@ AWS Certified Developer - Associate | Java | React JS | Python
 
 ![aws-certified-developer-associate](https://user-images.githubusercontent.com/54411695/200574563-dd8a01db-0239-447a-b963-2f2218946515.png)
 
-## Top Repositories ✨
+### Top Repositories ✨
 ![top-repo1](https://github-readme-stats.vercel.app/api/pin/?username=devish99&repo=Object_Detection_YOLO)
 ![top-repo2](https://github-readme-stats.vercel.app/api/pin/?username=devish99&repo=Drum-Kit)
 
