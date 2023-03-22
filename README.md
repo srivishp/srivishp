@@ -1,7 +1,7 @@
 # Hello, there! 🤓
 
 ### AWS Certified Developer - Associate | Java | React JS | Python
-- 📫 <a href="https://drive.google.com/file/d/1y4mcLWQrgZ7W1SmvwTJoRU89aBHg9gRk/view">Click here</a> to view my resume.
+- 📫 <a href="https://drive.google.com/file/d/1dovSfO9O8hAlIq_Fi3Rd5ZMwfWugq_Uu/view">Click here</a> to view my resume.
 
 
 [![Sri Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=devish99&include_all_commits=true&show_icons=true&count_private=true&theme=transparent&show_icons=true&hide=issues)](https://github.com/devish99/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devish99&layout=compact&theme=transparent&langs_count=6)](https://github.com/devish99/github-readme-stats) 
