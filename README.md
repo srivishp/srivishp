@@ -1,7 +1,7 @@
 # Hello, there! 🤓
 
-### AWS Certified Developer - Associate ☁️
-#### Java | React JS | Python
+### AWS Certified Developer - Associate 🌐
+### Java | React JS | Python
 - 📫 <a href="https://drive.google.com/file/d/1-SBs7YcHhQpLS4oZxEqSlVf7_ESTBJzW/view?usp=share_link">Click here</a> to view my resume.
 
 
