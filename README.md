@@ -17,7 +17,7 @@
 
 
 <!--
-**devish99/srivishp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**srivishp/srivishp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=srivishp&include_all_commits=true&show_icons=true&hide=issues,prs,stars,contribs&count_private=true&show_icons=true)](https://github.com/srivishp/github-readme-stats)
 
 Here are some ideas to get you started:
