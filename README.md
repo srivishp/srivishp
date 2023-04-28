@@ -7,8 +7,6 @@
 - 👀  I’m interested in working on Amazon Web Services!
 - 📫 <a href="https://drive.google.com/file/d/1-SBs7YcHhQpLS4oZxEqSlVf7_ESTBJzW/view?usp=share_link">Click here</a> to view my resume.
 
-[![Sri Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=srivishp&include_all_commits=true&show_icons=true&count_private=true&theme=transparent&show_icons=true&hide=issues)](https://github.com/srivishp/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srivishp&layout=compact&theme=transparent&langs_count=6)](https://github.com/srivishp/github-readme-stats) 
-
 
 ![aws-certified-developer-associate](https://user-images.githubusercontent.com/54411695/200574563-dd8a01db-0239-447a-b963-2f2218946515.png)
 ### My Skills
@@ -34,7 +32,9 @@
  <a href="https://www.linkedin.com/in/sri-vishnu-pasumarthi-78321a147/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
    <a href="https://github.com/srivishp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
  </p>
-  
+ 
+ [![Sri Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=srivishp&include_all_commits=true&show_icons=true&count_private=true&theme=transparent&show_icons=true&hide=issues)](https://github.com/srivishp/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srivishp&layout=compact&theme=transparent&langs_count=6)](https://github.com/srivishp/github-readme-stats) 
+
 
 
 
