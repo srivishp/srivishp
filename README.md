@@ -1,8 +1,10 @@
 # Hello, there! 🔥
 
-### AWS Certified Developer - Associate 🌐
+### AWS Certified Developer - Associate <a href="https://drive.google.com/drive/folders/10sJLy6caW66tpXVjAn2kZxt5uqMAldyM">↗</a>
 ### Java | React JS | Python
 - 📫 <a href="https://drive.google.com/file/d/1-SBs7YcHhQpLS4oZxEqSlVf7_ESTBJzW/view?usp=share_link">Click here</a> to view my resume.
+- 🔭  I’m currently working on React JS with Kendo React, Material UI & Node.
+- 👀  I’m interested in working on Amazon Web Services Services!
 
 
 [![Sri Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=srivishp&include_all_commits=true&show_icons=true&count_private=true&theme=transparent&show_icons=true&hide=issues)](https://github.com/srivishp/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srivishp&layout=compact&theme=transparent&langs_count=6)](https://github.com/srivishp/github-readme-stats) 
