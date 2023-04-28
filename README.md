@@ -1,6 +1,6 @@
 # Hello, there! 🔥
 
-### AWS Certified Developer - Associate <a href="https://drive.google.com/drive/folders/10sJLy6caW66tpXVjAn2kZxt5uqMAldyM">↗</a>
+### AWS Certified Developer - Associate <a href="https://drive.google.com/file/d/1mZNYAxneQYP0tf84WTaqH8o3AkwTFNzK/view?usp=sharing">↗</a>
 ### Java | React JS | Python
 - 📫 <a href="https://drive.google.com/file/d/1-SBs7YcHhQpLS4oZxEqSlVf7_ESTBJzW/view?usp=share_link">Click here</a> to view my resume.
 - 🔭  I’m currently working on React JS with Kendo React, Material UI & Node.
