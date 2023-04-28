@@ -7,7 +7,7 @@
 ### About Me
 - 🔭  I’m currently working on React JS with Kendo React, Material UI & Node.
 - 👀  I’m interested in working on Amazon Web Services!
-- 📫 <a href="https://drive.google.com/file/d/1-SBs7YcHhQpLS4oZxEqSlVf7_ESTBJzW/view?usp=share_link">Click here</a> to view my resume.
+- 📫 <a href="https://drive.google.com/file/d/15U5m3jiuc-pLLl8yg2el6Pa4H0Ax3WyR/view?usp=sharing">Click here</a> to view my resume.
 
 ### My Skills
 <p align="left">
