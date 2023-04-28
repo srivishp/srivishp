@@ -29,23 +29,18 @@
 
 ### My Socials
  <p align="left">
- <a href="https://www.linkedin.com/in/sri-vishnu-pasumarthi-78321a147/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-   <a href="https://github.com/srivishp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
- </p>
- 
- <b>My GitHub Stats</b>
+<a href="https://www.linkedin.com/in/dc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/danielcranney" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+</p>
+
+
+### My GitHub Stats
 
 <a href="http://www.github.com/srivishp"><img src="https://github-readme-stats.vercel.app/api?username=srivishp&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sri Vishnu's GitHub stats" /></a>
 
 <a href="http://www.github.com/srivishp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=srivishp&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/srivishp"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=srivishp&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
-
-## Top Repositories ✨
-![top-repo1](https://github-readme-stats.vercel.app/api/pin/?username=srivishp&repo=Object_Detection_YOLO)
-![top-repo2](https://github-readme-stats.vercel.app/api/pin/?username=srivishp&repo=Drum-Kit)
 
 
 
