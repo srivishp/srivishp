@@ -33,8 +33,13 @@
    <a href="https://github.com/srivishp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
  </p>
  
- [![Sri Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=srivishp&include_all_commits=true&show_icons=true&count_private=true&theme=transparent&show_icons=true&hide=issues)](https://github.com/srivishp/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srivishp&layout=compact&theme=transparent&langs_count=6)](https://github.com/srivishp/github-readme-stats) 
+ <b>My GitHub Stats</b>
 
+<a href="http://www.github.com/srivishp"><img src="https://github-readme-stats.vercel.app/api?username=srivishp&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sri Vishnu's GitHub stats" /></a>
+
+<a href="http://www.github.com/srivishp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=srivishp&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/srivishp"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=srivishp&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 
