@@ -1,4 +1,4 @@
-# Hello, there!🔥
+# Hello, there! 😃
 
 ### About Me
 - 🔭  I’m currently working on React JS with Kendo React, Material UI & Node.
