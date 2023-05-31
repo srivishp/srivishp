@@ -43,9 +43,6 @@
 
 <a href="http://www.github.com/srivishp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=srivishp&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/srivishp"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=srivishp&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
 
 <!--
 **srivishp/srivishp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
