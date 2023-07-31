@@ -1,7 +1,7 @@
 # Hello, there! 😃
 
 ### About Me
-- 🔭  I’m currently working on React JS with Kendo React, Material UI & Node JS.
+- 🔭  I’m currently learning React JS.
 - 👀  I’m looking forward to gain hands-on experience with Amazon Web Services!
 - 📫 <a href="https://drive.google.com/file/d/1Fyq-hZX0kSCyO6nW-t39hQxwAWHAwWwi/view?usp=sharing">Click here</a> to view my resume.
 
