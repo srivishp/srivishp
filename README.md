@@ -3,7 +3,7 @@
 ### About Me
 - 🔭  I’m currently learning React JS.
 - 👀  I’m looking forward to gain hands-on experience with Amazon Web Services!
-- 📫 <a href="https://drive.google.com/file/d/1Fyq-hZX0kSCyO6nW-t39hQxwAWHAwWwi/view?usp=sharing">Click here</a> to view my resume.
+- 📫 <a href="https://drive.google.com/file/d/1bxsgEZUv0htJLVVkyS0HGk1mG7R8D-Fl/view?usp=drive_link">Click here</a> to view my resume.
 
 ### AWS Certified Developer - Associate 
 
