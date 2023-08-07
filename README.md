@@ -35,8 +35,15 @@
 <a href="https://www.github.com/srivishp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 </p>
 
+
+
 ### My Badges
 ![aws-certified-developer-associate](https://user-images.githubusercontent.com/54411695/200574563-dd8a01db-0239-447a-b963-2f2218946515.png)
+
+### My GitHub Stats
+
+<a href="http://www.github.com/srivishp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=srivishp&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 
 
 <!--
