@@ -41,9 +41,11 @@
 ![aws-certified-developer-associate](https://user-images.githubusercontent.com/54411695/200574563-dd8a01db-0239-447a-b963-2f2218946515.png)
 
 ### My GitHub Stats
+
 <a href="http://www.github.com/srivishp"><img src="https://github-readme-stats.vercel.app/api?username=srivishp&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sri Vishnu's GitHub stats" /></a>   <a href="http://www.github.com/srivishp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=srivishp&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivishp&hide_progress=false)
+
 <!--
 **srivishp/srivishp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
