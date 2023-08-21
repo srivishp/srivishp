@@ -42,8 +42,7 @@
 
 ### My GitHub Stats
 
-   <a href="http://www.github.com/srivishp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=srivishp&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=srivishp&theme=transparent&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&fire=FF9200&ring=2AAD49)](https://git.io/streak-stats)
 
 
 <!--
