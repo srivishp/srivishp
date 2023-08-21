@@ -40,9 +40,9 @@
 ### My Badges
 ![aws-certified-developer-associate](https://user-images.githubusercontent.com/54411695/200574563-dd8a01db-0239-447a-b963-2f2218946515.png)
 
-### My GitHub Stats
+### Commits Streak
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=srivishp&theme=dark&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=srivishp&theme=dark&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&width=460)](https://git.io/streak-stats)
 
 
 <!--
