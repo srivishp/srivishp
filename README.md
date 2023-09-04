@@ -44,13 +44,14 @@
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=srivishp&theme=github_light&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&card_width=420)](https://git.io/streak-stats)
 
-### Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivishp&hide_progress=false)
 
 
 <!--
 **srivishp/srivishp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivishp&hide_progress=false)
 
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 
