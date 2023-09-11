@@ -11,7 +11,7 @@
 <a href="https://drive.google.com/file/d/1mZNYAxneQYP0tf84WTaqH8o3AkwTFNzK/view?usp=sharing">View Certificate ↗</a>
 
 
-### My Skills
+## My Skills
 
 #### Tools & OS
 <p align="left">
@@ -44,13 +44,13 @@
 
   #### Cloud
   <p align="left">
-
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>  
   </p>
 
 
-### My Social Profiles
+## My Social Profiles
+
  <p align="left">
 <a href="https://www.linkedin.com/in/sri-vishnu-pasumarthi-78321a147/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <a href="https://www.github.com/srivishp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
@@ -58,7 +58,8 @@
 
 
 
-### My Badges
+## My Badges
+
 ![aws-certified-developer-associate](https://user-images.githubusercontent.com/54411695/200574563-dd8a01db-0239-447a-b963-2f2218946515.png)
 
 ### Commits Streak
