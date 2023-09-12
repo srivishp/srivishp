@@ -11,7 +11,7 @@
 <a href="https://drive.google.com/file/d/1mZNYAxneQYP0tf84WTaqH8o3AkwTFNzK/view?usp=sharing">View Certificate ↗</a>
 
 
-## My Skills
+## Skills
 
 #### Tools & OS
 <p align="left">
@@ -49,7 +49,7 @@
   </p>
 
 
-## My Social Profiles
+## Socials
 
  <p align="left">
 <a href="https://www.linkedin.com/in/sri-vishnu-pasumarthi-78321a147/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
@@ -58,7 +58,7 @@
 
 
 
-## My Badges
+## Badges
 
 ![aws-certified-developer-associate](https://user-images.githubusercontent.com/54411695/200574563-dd8a01db-0239-447a-b963-2f2218946515.png)
 
