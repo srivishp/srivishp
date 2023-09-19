@@ -62,10 +62,6 @@
 
 ![aws-certified-developer-associate](https://user-images.githubusercontent.com/54411695/200574563-dd8a01db-0239-447a-b963-2f2218946515.png)
 
-### Commits Streak
-
- [![GitHub Streak](https://github-readme-stats-by-srivishp.vercel.app/?user=srivishp&theme=github_light&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&card_width=420)](https://git.io/streak-stats)
-
 
 
 <!--
@@ -77,7 +73,14 @@
 
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></### Commits Streak
+
+ [![GitHub Streak](https://github-readme-stats-by-srivishp.vercel.app/?user=srivishp&theme=github_light&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&card_width=420)](https://git.io/streak-stats)
+
+
+
+
+
 
 ### My GitHub Stats
 
