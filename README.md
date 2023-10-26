@@ -66,6 +66,9 @@
 <!--
 **srivishp/srivishp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+- 📫 <a href="https://drive.google.com/file/d/1CsQpynqLpo8rmGrZ9xUMNWiXGC9WpqZE/view?usp=sharing">Click here</a> to view my resume.
+
 ### Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivishp&hide_progress=false)
@@ -107,5 +110,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 <a href="https://drive.google.com/file/d/1CsQpynqLpo8rmGrZ9xUMNWiXGC9WpqZE/view?usp=sharing">Click here</a> to view my resume.
+
 
