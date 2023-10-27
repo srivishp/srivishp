@@ -1,7 +1,7 @@
 # Hello, there! 😃
 
 ### About Me
-- 🔭  I’m currently learning Redux, Router & Typescript.
+- 🔭  I’m currently learning Redux, Typescript & Next JS.
 - 👀  I’m looking forward to gaining hands-on experience with Amazon Web Services!
 - :star: I'm an <a href="https://drive.google.com/file/d/1mZNYAxneQYP0tf84WTaqH8o3AkwTFNzK/view?usp=sharing">AWS Certified Developer</a> at the Associate level.
 
