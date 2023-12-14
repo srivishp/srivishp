@@ -1,4 +1,4 @@
-# Hello, there! 😃
+# Hello, there! 🦔
 
 ### About Me
 - 👨‍💻  I’m currently learning Redux, Next JS & Typescript.
