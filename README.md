@@ -57,12 +57,6 @@
 
 ![aws-certified-developer-associate](https://user-images.githubusercontent.com/54411695/200574563-dd8a01db-0239-447a-b963-2f2218946515.png)
 
-
-## Statistics
-
-
-[![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=srivishp&include_all_commits=true&show_icons=true&hide=issues,stars&count_private=true&show_icons=true)](https://github.com/srivishp/github-readme-stats)
-
 <!--
 **srivishp/srivishp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
