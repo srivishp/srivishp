@@ -6,6 +6,9 @@
 - 🏅  View my certifications from <a href="https://srivishp.github.io/certifications/dva-c01.pdf">Amazon Web Services</a> and <a href="https://srivishp.github.io/certifications/BigDev%20Certificate.pdf">BigCommerce</a>.
 
 ## Skills
+&nbsp;<div align="center">
+  [![Spotify](https://ghostof0days.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/21lmnr3nrgzbetc7ptettzjxy)
+</div>
 
 #### Tools & OS
 <p align="left">
