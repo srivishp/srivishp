@@ -1,6 +1,5 @@
 # Hello, there! 🦔
-
-### About Me
+### I'm a frontend developer.
 - 👨‍💻  I’m currently learning Redux, Next JS & Typescript.
 - 👀  I’m looking forward to gaining hands-on experience with Amazon Web Services!
 - 🏅  View my certifications from <a href="https://srivishp.github.io/certifications/dva-c01.pdf">Amazon Web Services</a> and <a href="https://srivishp.github.io/certifications/BigDev%20Certificate.pdf">BigCommerce</a>.
