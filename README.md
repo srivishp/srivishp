@@ -1,5 +1,5 @@
 # Hello, there! 🦔
-### I'm a frontend developer.
+### About Me
 - 👨‍💻  I’m currently learning Redux, Next JS & Typescript.
 - 👀  I’m looking forward to gaining hands-on experience with Amazon Web Services!
 - 🏅  View my certifications from <a href="https://srivishp.github.io/certifications/dva-c01.pdf">Amazon Web Services</a> and <a href="https://srivishp.github.io/certifications/BigDev%20Certificate.pdf">BigCommerce</a>.
@@ -7,8 +7,7 @@
 ## My Skills
 
 <details open>
-<summary>Tools & OS</summary>
-<br>
+<summary><h3>Tools & OS</h3></summary>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
@@ -16,8 +15,7 @@
 </details> 
 
 <details open>
-<summary>Languages</summary>
-<br>
+<summary><h3>Languages</h3></summary>
 <p align="left">
    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -30,8 +28,7 @@
 </details> 
 
 <details open>
-<summary>Web Development</summary>
-<br>
+<summary><h3>Web Development</h3></summary>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -46,8 +43,7 @@
 </details>
   
 <details open>
-<summary>Cloud Services</summary>
-<br>
+<summary><h3>Cloud Services</h3></summary>
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>  
