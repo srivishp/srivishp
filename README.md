@@ -5,7 +5,8 @@
 - 🏅  View my certifications from <a href="https://srivishp.github.io/certifications/dva-c01.pdf">Amazon Web Services</a> and <a href="https://srivishp.github.io/certifications/BigDev%20Certificate.pdf">BigCommerce</a>.
 
 ## My Skills
-<details>
+
+<details open>
 <summary>Tools & OS</summary>
 <br>
 <p align="left">
@@ -14,7 +15,7 @@
 </p>
 </details> 
 
-<details>
+<details open>
 <summary>Languages</summary>
 <br>
 <p align="left">
@@ -28,7 +29,7 @@
   </p>
 </details> 
 
-<details>
+<details open>
 <summary>Web Development</summary>
 <br>
 <p align="left">
@@ -44,7 +45,7 @@
   </p>
 </details>
   
- <details>
+<details open>
 <summary>Cloud Services</summary>
 <br>
 <p align="left">
