@@ -51,6 +51,13 @@
   </p>
 </details>
 
+<details open>
+<summary><h3>Code Editors</h3></summary>
+<p align="left">
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+  </p>
+</details>
+
 ## Socials
 
  <p align="left">
