@@ -72,6 +72,7 @@
 
 ![aws-certified-developer-associate](https://user-images.githubusercontent.com/54411695/200574563-dd8a01db-0239-447a-b963-2f2218946515.png)
 <img height="168" width="168" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"/>
+<img height="168" width="168" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main"/>
 <!--
 **srivishp/srivishp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
