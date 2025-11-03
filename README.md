@@ -3,7 +3,8 @@
 - 👨‍💻  I’m currently learning Node JS, Express JS & Next JS.
 - 👀  I’m looking forward to gaining hands-on experience with Azure & AWS!
 - 🏅  View my certifications from <a href="https://learn.microsoft.com/api/credentials/share/en-us/SriVishnuPasumarthi-3704/D42934BBC0EA47A0?sharingId=FA27342107BA5CC7">Microsoft Azure</a> ,  <a href="https://srivishp.github.io/certifications/dva-c01.pdf">Amazon Web Services</a> and <a href="https://srivishp.github.io/certifications/BigDev%20Certificate.pdf">BigCommerce</a>.
-
+- ✨  I love XKCD comics. Scroll to the bottom for a random comic.
+  
 ## My Skills
 
 <details open>
@@ -75,6 +76,12 @@
 ![aws-certified-developer-associate](https://user-images.githubusercontent.com/54411695/200574563-dd8a01db-0239-447a-b963-2f2218946515.png)
 <img height="168" width="168" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"/>
 <img height="168" width="168" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main"/>
+
+### XKCD comic generator
+Refresh the page for a random comic...
+
+<img src="https://random-xkcder.vercel.app/" title="xkcd" alt="Random xkcd comic" />
+
 <!--
 **srivishp/srivishp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
