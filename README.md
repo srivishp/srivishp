@@ -77,7 +77,7 @@
 <img height="168" width="168" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"/>
 <img height="168" width="168" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main"/>
 
-### XKCD comic generator
+## XKCD comic generator
 Refresh the page for a random comic...
 
 <img src="https://random-xkcder.vercel.app/" title="xkcd" alt="Random xkcd comic" />
