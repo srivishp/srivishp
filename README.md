@@ -1,4 +1,4 @@
-# Hello, there! 🐘
+# Hello, there! 💯
 ### About Me
 - 👨‍💻  I’m currently learning Node JS, Express JS & Next JS.
 - 👀  I’m looking forward to gaining hands-on experience with Azure & AWS!
