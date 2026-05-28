@@ -1,4 +1,4 @@
-# Hello, there! 💯
+# Software Engineer | AWS Serverless | Python | React JS
 ### About Me
 - 👨‍💻  I’m currently preparing for the AWS Solutions Architect Associate certification.
 - 👀  I’m looking forward to gaining hands-on experience with AWS & Python!
