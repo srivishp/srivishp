@@ -1,7 +1,7 @@
 # Hello, there! 💯
 ### About Me
-- 👨‍💻  I’m currently learning Node JS, Express JS & Next JS.
-- 👀  I’m looking forward to gaining hands-on experience with Azure & AWS!
+- 👨‍💻  I’m currently preparing for the AWS Solutions Architect Associate certification.
+- 👀  I’m looking forward to gaining hands-on experience with AWS & Python!
 - 🏅  View my certifications from <a href="https://learn.microsoft.com/api/credentials/share/en-us/SriVishnuPasumarthi-3704/D42934BBC0EA47A0?sharingId=FA27342107BA5CC7">Microsoft Azure</a> ,  <a href="https://srivishp.github.io/certifications/dva-c01.pdf">Amazon Web Services</a> and <a href="https://srivishp.github.io/certifications/BigDev%20Certificate.pdf">BigCommerce</a>.
 - ✨  I love XKCD comics. Scroll to the bottom for a comic.
   
